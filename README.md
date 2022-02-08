@@ -1,4 +1,5 @@
 # Boas vindas ao repositório do projeto App de Receitas!
+![Captura de tela de 2022-02-08 15-20-53](https://user-images.githubusercontent.com/84282335/153052184-215bf452-05cd-4d24-a194-b90ea88e5526.png)
 
 # Equipe
 
