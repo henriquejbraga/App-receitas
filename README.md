@@ -3,10 +3,15 @@
 # Equipe
 
 <a>Andrews Matsubara</a>
+
 <a>Caio Veloso</a>
+
 <a>Henrique Braga</a>
+
 <a>João Ferreira</a>
+
 <a>Natália Lima</a>
+
 
 * Projeto proposto pela <a href="https://www.betrybe.com/">Trybe</a> e requisitos desenvolvidos pela equipe.
 
